@@ -1,0 +1,3 @@
+ok
+hshsjsj
+namra nmara
