@@ -44,11 +44,32 @@ Here is a footnote reference,[^1] and another.[^longnote]
 
 [^longnote]: Here's one with multiple blocks.
 
+---
+
     Subsequent paragraphs are indented to show that they
 belong to the previous footnote.
+
+>adding a quote............
 
 ```
 <html>
 som e code............
 </html>
 ````
+
+#### Table..............
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+	term
+: definition
+
+That is so funny! :joy:
+
+	I need to highlight these ==very important words==.
+
+    	H~2~O
+        X^2^
