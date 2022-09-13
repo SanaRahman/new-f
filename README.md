@@ -36,6 +36,8 @@ hi
 - [ ] https://github.com/SanaRahman/new-f/issues/7
 - [ ] doing markdown...
 
+`#RRGGBB`
+
 `@namra22`
 
 Here is a footnote reference,[^1] and another.[^longnote]
@@ -57,6 +59,13 @@ som e code............
 </html>
 ````
 
+That is so funny! :joy:
+
+	I need to highlight these ==very important words==.
+
+    	H~2~O
+        X^2^
+
 #### Table..............
 
 | Syntax | Description |
@@ -67,9 +76,3 @@ som e code............
 	term
 : definition
 
-That is so funny! :joy:
-
-	I need to highlight these ==very important words==.
-
-    	H~2~O
-        X^2^
