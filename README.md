@@ -46,3 +46,9 @@ Here is a footnote reference,[^1] and another.[^longnote]
 
     Subsequent paragraphs are indented to show that they
 belong to the previous footnote.
+
+```
+<html>
+som e code............
+</html>
+````
